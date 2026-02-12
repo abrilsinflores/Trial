@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.meta.xr.sdk.core": {
+      "version": "83.0.4",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
     "com.unity.ai.navigation": {
       "version": "2.0.9",
       "depth": 0,
@@ -65,7 +72,7 @@
     },
     "com.unity.inputsystem": {
       "version": "1.17.0",
-      "depth": 0,
+      "depth": 1,
       "source": "registry",
       "dependencies": {
         "com.unity.modules.uielements": "1.0.0"
@@ -229,8 +236,8 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.management": {
-      "version": "4.5.4",
-      "depth": 0,
+      "version": "4.5.3",
+      "depth": 1,
       "source": "registry",
       "dependencies": {
         "com.unity.modules.xr": "1.0.0",
